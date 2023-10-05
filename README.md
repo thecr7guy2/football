@@ -1,4 +1,4 @@
 # football
 
 
-<img src="./visualization/Waffle.png" width="400" height="300">
+<img src="./visualization/waffle.png" width="400" height="300">
