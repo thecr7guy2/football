@@ -8,13 +8,10 @@ In this portfolio, you will find a collection of Jupyter notebooks that cover a 
 ## Notebooks
 Here's a list of some of the notebooks you'll find in this repository, along with brief descriptions of what each of them focuses on:
 
-- `notebook1.ipynb`: An analysis of player statistics from the latest football season, including goals, assists, and more.
+- `Waffle_plot.ipynb`: The analysis explores the specifics of how tthe most prolific goal scorers in 2019 scored their goals.
+<img src="./visualizations/waffle.png" >
 - `notebook2.ipynb`: Visualizing team performance across multiple seasons and competitions.
 - `notebook3.ipynb`: Examining the correlation between various player attributes and their market values.
 - `notebook4.ipynb`: Creating interactive maps to showcase the geographical distribution of football clubs.
 
 
-
-
-
-<img src="./visualizations/waffle.png" >
