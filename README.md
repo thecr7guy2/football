@@ -2,7 +2,7 @@
 Welcome to my Football Data Visualization Portfolio. This repository showcases my work as an aspiring football data scientist, highlighting various Jupyter notebooks dedicated to visualizing and analyzing football-related data.
 
 <p align="center">
-  <img src="./visualizations/Diamond.jpg">
+  <img src="./visualizations/dotmatrix.jpg">
 </p>
 
 ## Overview
@@ -26,7 +26,7 @@ If you're interested in contributing to this portfolio or have suggestions for i
 I would like to acknowledge the football community and the creators of open football datasets, which have made projects like these possible.
 
 ## Contact
-If you have any questions, feedback, or would like to connect, you can reach me at manirajadapa@email.com.
+If you have any questions, feedback, or would like to connect, you can reach me at manirajadapa@gmail.com.
 
 ## Troubleshooting
 If you encounter any issues or have trouble running the notebooks, please contact me or open an issue.
