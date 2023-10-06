@@ -9,11 +9,7 @@ In this portfolio, you will find a collection of Jupyter notebooks that cover a 
 Here's a list of some of the notebooks you'll find in this repository, along with brief descriptions of what each of them focuses on:
 
 - `Waffle_plot.ipynb`: The analysis explores the specifics of how tthe most prolific goal scorers in 2019 scored their goals.
-
-  <img src="./visualizations/waffle.png" >
-  
-- `notebook2.ipynb`: Visualizing team performance across multiple seasons and competitions.
-- `notebook3.ipynb`: Examining the correlation between various player attributes and their market values.
-- `notebook4.ipynb`: Creating interactive maps to showcase the geographical distribution of football clubs.
+- `Dotmatrix_plot.ipynb`: This visualization showcases the top football players based on the number of passes they made in the 15 seconds leading up to a shot during the World Cup 2018. It provides insights into the playmaking abilities and involvement of these players in critical moments.
+- `Mini_Challenge.ipynb`: My first take on Football Data analysis featuring Dvaid Sumpter.
 
 
