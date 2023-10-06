@@ -1,4 +1,4 @@
-# Football Data Visulaization Portfolio
+# Football Data Visualization Portfolio
 Welcome to my Football Data Visualization Portfolio. This repository showcases my work as an aspiring football data scientist, highlighting various Jupyter notebooks dedicated to visualizing and analyzing football-related data.
 
 ## Overview
