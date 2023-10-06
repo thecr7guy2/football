@@ -10,6 +10,7 @@ Here's a list of some of the notebooks you'll find in this repository, along wit
 
 - `Waffle_plot.ipynb`: The analysis explores the specifics of how tthe most prolific goal scorers in 2019 scored their goals.
   <img src="./visualizations/waffle.png" >
+  
 - `notebook2.ipynb`: Visualizing team performance across multiple seasons and competitions.
 - `notebook3.ipynb`: Examining the correlation between various player attributes and their market values.
 - `notebook4.ipynb`: Creating interactive maps to showcase the geographical distribution of football clubs.
