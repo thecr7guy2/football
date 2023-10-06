@@ -9,6 +9,7 @@ In this portfolio, you will find a collection of Jupyter notebooks that cover a 
 Here's a list of some of the notebooks you'll find in this repository, along with brief descriptions of what each of them focuses on:
 
 - `Waffle_plot.ipynb`: The analysis explores the specifics of how tthe most prolific goal scorers in 2019 scored their goals.
+
   <img src="./visualizations/waffle.png" >
   
 - `notebook2.ipynb`: Visualizing team performance across multiple seasons and competitions.
